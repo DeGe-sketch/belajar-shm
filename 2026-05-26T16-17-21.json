@@ -16,27 +16,27 @@
     {
       "name": "index.html",
       "size": 42374,
-      "rel_path": "products\\plantrade\\runs\\04-landing-page\\2026-05-26T16-17-21\\files\\index.html"
+      "rel_path": "2026-05-26T16-17-21\\files\\index.html"
     },
     {
       "name": "style.css",
       "size": 33132,
-      "rel_path": "products\\plantrade\\runs\\04-landing-page\\2026-05-26T16-17-21\\files\\style.css"
+      "rel_path": "2026-05-26T16-17-21\\files\\style.css"
     },
     {
       "name": "lp-image-manifest.json",
       "size": 4098,
-      "rel_path": "products\\plantrade\\runs\\04-landing-page\\2026-05-26T16-17-21\\files\\lp-image-manifest.json"
+      "rel_path": "2026-05-26T16-17-21\\files\\lp-image-manifest.json"
     },
     {
       "name": "mobile-qa-checklist.md",
       "size": 6623,
-      "rel_path": "products\\plantrade\\runs\\04-landing-page\\2026-05-26T16-17-21\\files\\mobile-qa-checklist.md"
+      "rel_path": "2026-05-26T16-17-21\\files\\mobile-qa-checklist.md"
     },
     {
       "name": "scalev-deploy-notes.md",
       "size": 6545,
-      "rel_path": "products\\plantrade\\runs\\04-landing-page\\2026-05-26T16-17-21\\files\\scalev-deploy-notes.md"
+      "rel_path": "2026-05-26T16-17-21\\files\\scalev-deploy-notes.md"
     }
   ],
   "pipeline_run": true,
