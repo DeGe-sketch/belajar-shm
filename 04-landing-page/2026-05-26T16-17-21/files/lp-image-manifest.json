@@ -1,0 +1,106 @@
+{
+  "version": "1.0",
+  "product_slug": "plantrade",
+  "output_dir": "lp-assets",
+  "assets": [
+    {
+      "name": "hero",
+      "filename": "hero.jpg",
+      "keyword": "young professional home office laptop spreadsheet trading",
+      "orientation": "landscape",
+      "min_width": 1200,
+      "min_height": 630,
+      "used_in": "Section 1 — Hero (OG image + hero background)",
+      "alt_text": "Trader muda bekerja di meja rumah yang rapi, laptop menampilkan spreadsheet trading plan, secangkir kopi di samping"
+    },
+    {
+      "name": "testi-1",
+      "filename": "testi-1.jpg",
+      "keyword": "indonesian young professional casual office worker",
+      "orientation": "portrait",
+      "min_width": 200,
+      "min_height": 200,
+      "used_in": "Section 2 — Testimonial Card 1",
+      "alt_text": "Foto profil trader muda berpakaian kasual, ekspresi tenang dan fokus"
+    },
+    {
+      "name": "testi-2",
+      "filename": "testi-2.jpg",
+      "keyword": "indonesian young woman laptop working from home",
+      "orientation": "portrait",
+      "min_width": 200,
+      "min_height": 200,
+      "used_in": "Section 2 — Testimonial Card 2",
+      "alt_text": "Foto profil perempuan muda bekerja dari rumah dengan laptop terbuka"
+    },
+    {
+      "name": "testi-3",
+      "filename": "testi-3.jpg",
+      "keyword": "young man studying data on phone indonesia",
+      "orientation": "portrait",
+      "min_width": 200,
+      "min_height": 200,
+      "used_in": "Section 2 — Testimonial Card 3",
+      "alt_text": "Foto profil laki-laki muda melihat data di smartphone, ekspresi fokus"
+    },
+    {
+      "name": "transformation-bg",
+      "filename": "transformation.jpg",
+      "keyword": "calm home office desk morning light coffee laptop open",
+      "orientation": "landscape",
+      "min_width": 1000,
+      "min_height": 600,
+      "used_in": "Section 8 — Transformation / Bayangin background",
+      "alt_text": "Meja kerja rumah yang rapi dengan laptop terbuka, cahaya pagi yang hangat, dan secangkir kopi — suasana tenang dan terstruktur"
+    },
+    {
+      "name": "cta-bg",
+      "filename": "cta-bg.jpg",
+      "keyword": "dark minimal desk professional trading analysis organized",
+      "orientation": "landscape",
+      "min_width": 1200,
+      "min_height": 600,
+      "used_in": "Section 10 — Pricing background",
+      "alt_text": "Meja trading profesional dengan tampilan data bersih di layar, latar gelap minimal"
+    },
+    {
+      "name": "checklist-mockup",
+      "filename": "checklist-mockup.jpg",
+      "keyword": "checklist paper document clean white desk pen",
+      "orientation": "landscape",
+      "min_width": 800,
+      "min_height": 500,
+      "used_in": "Section 6 — Core Deliverables (Checklist visual)",
+      "alt_text": "Dokumen checklist bersih di atas meja putih dengan pena, tampak rapi dan terstruktur"
+    },
+    {
+      "name": "spreadsheet-mockup",
+      "filename": "spreadsheet-mockup.jpg",
+      "keyword": "google sheets spreadsheet data tracking analytics laptop screen",
+      "orientation": "landscape",
+      "min_width": 800,
+      "min_height": 500,
+      "used_in": "Section 6 — Core Deliverables (Trading Log visual)",
+      "alt_text": "Tampilan Google Sheets terbuka di layar laptop dengan data tracking win rate perdagangan"
+    },
+    {
+      "name": "chatgpt-mockup",
+      "filename": "chatgpt-mockup.jpg",
+      "keyword": "chatgpt browser screen laptop open minimalist clean",
+      "orientation": "landscape",
+      "min_width": 800,
+      "min_height": 500,
+      "used_in": "Section 6 — Core Deliverables (Prompt Chain visual)",
+      "alt_text": "Tampilan browser ChatGPT terbuka di layar laptop, antarmuka bersih dan minimalis"
+    },
+    {
+      "name": "footer-pattern",
+      "filename": "footer-pattern.jpg",
+      "keyword": "dark green minimal texture background professional",
+      "orientation": "landscape",
+      "min_width": 1200,
+      "min_height": 300,
+      "used_in": "Section 14 — Footer background texture",
+      "alt_text": "Tekstur latar belakang hijau gelap minimal untuk footer"
+    }
+  ]
